@@ -16,10 +16,10 @@ I’ve worked in data science projects and economic research and I’m continual
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3775A9) 
 ![](https://img.shields.io/badge/-R-informational?style=flat&logo=R&logoColor=white&color=00457C) 
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=d1c145)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f0a500)
  ![](https://img.shields.io/badge/-Scala-informational?style=flat&logo=scala&logoColor=white&color=ec524b) 
  ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=C&logoColor=white&color=00457C) 
-![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=bce6eb)
+![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=127681)
 
 ### Frameworks, tools and Libraries
 
@@ -39,9 +39,9 @@ I’ve worked in data science projects and economic research and I’m continual
 ![](https://img.shields.io/badge/-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=43658b)
 ![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4e89ae)
-![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&logoColor=white&color=ee6f57)
+![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazon&AWS&logoColor=white&color=ee6f57)
+![](https://img.shields.io/badge/-GCP-informational?style=flat&logo=google&cloud&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=440047)
-![](https://img.shields.io/badge/-VScode-informational?style=flat&logo=&logoColor=white&color=0f4c75)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=Linux&logoColor=white&color=838383) 
 ![](https://img.shields.io/badge/-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=206a5d) 
 ![](https://img.shields.io/badge/-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=2bbc8a) 
