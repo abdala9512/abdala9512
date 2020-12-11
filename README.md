@@ -3,9 +3,11 @@
 
 Hi, I'm Miguel Arquez Abdala
 
-Passion for acquiring new quantitative and coding skills and data-driven phenomena understanding with high Business impact everyday.
+I'm passionate for acquiring new quantitative and coding skills and data-driven phenomena understanding with high Business impact everyday.
 
 I’ve worked in data science projects and economic research and I’m continually seeking professional challenges in Machine learning engineering, Data engineering, end to end ML solutions and Big Data problems. Currently I'm learning about Deep learning, cloud computing and expanding my coding skills with frameworks and programming languages to big data problems, optimization and data pipeline development.
+
+Trying to solve Machine learning and Data science problems for fun..
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdala9512&layout=compact)](https://github.com/abdala9512/github-readme-stats)
@@ -46,3 +48,17 @@ I’ve worked in data science projects and economic research and I’m continual
 ![](https://img.shields.io/badge/-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=206a5d) 
 ![](https://img.shields.io/badge/-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=2bbc8a) 
 
+
+## Some books I recommend that helped me in my Machine Learning and Data Science learning path
+
+*  [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
+* [Data Science in Production: Building Scalable Model Pipelines with Python ](https://www.amazon.com/-/es/Ben-Weber-ebook/dp/B083H2YWP4)
+
+* [ Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/-/es/Aur%C3%A9lien-G%C3%A9ron/dp/1492032646/ref=pd_lpo_14_img_0/143-2007620-3388726?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=52e1bf37-65c6-49e0-b301-ef720158f4e2&pd_rd_w=3oQxq&pd_rd_wg=xhHW4&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=CAZ6PYXJ69DDXPZY539T&psc=1&refRID=CAZ6PYXJ69DDXPZY539T)
+
+* [Introducing MLOps (My current reading)](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
+
+## My portfolio
+
+... In progress .. meanwhile yo can take a look at my repositories
