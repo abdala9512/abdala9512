@@ -62,3 +62,9 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 ## My portfolio
 
 ... In progress... Meanwhile yo can take a look at my repositories
+
+
+## My Data Science notes
+
+* [Rpubs](https://rpubs.com/arquez9512)
+* [Kyso](https://kyso.io/abdala9512)
