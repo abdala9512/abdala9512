@@ -61,7 +61,7 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 
 ## My portfolio
 
-... In progress...  Meanwhile yo can take a look at my repositories
+... In progress...  Meanwhile you can check my repositories
 
 
 ## My Data Science notes
