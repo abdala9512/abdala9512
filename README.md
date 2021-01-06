@@ -9,8 +9,11 @@ I’ve worked in data science projects and economic research and I’m continual
 
 Trying to solve Machine learning and Data science problems for fun... Permanently learning
 
+<center>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdala9512&layout=compact&hide_border=true)](https://github.com/abdala9512/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdala9512&layout=compact)](https://github.com/abdala9512/github-readme-stats)
+
 
 ## My interests
 
