@@ -68,3 +68,8 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 
 * [Rpubs](https://rpubs.com/arquez9512)
 * [Kyso](https://kyso.io/abdala9512)
+
+
+<a href="https://www.linkedin.com/in/miguel-arquez-abdala-3503b277/">
+  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
