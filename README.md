@@ -12,6 +12,8 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdala9512&layout=compact)](https://github.com/abdala9512/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=abdala9512&style=flat-square&color=EA4AAA)
+
 ## My interests
 
 ### Languages
