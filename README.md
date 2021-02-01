@@ -59,6 +59,8 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 
 * [ Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/-/es/Aur%C3%A9lien-G%C3%A9ron/dp/1492032646/ref=pd_lpo_14_img_0/143-2007620-3388726?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=52e1bf37-65c6-49e0-b301-ef720158f4e2&pd_rd_w=3oQxq&pd_rd_wg=xhHW4&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=CAZ6PYXJ69DDXPZY539T&psc=1&refRID=CAZ6PYXJ69DDXPZY539T)
 
+* [Learn Keras for Deep Neural Networks](https://www.amazon.com/-/es/Jojo-Moolayil/dp/1484242394)
+
 * [Introducing MLOps (My current reading)](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
 
 ## My portfolio
