@@ -51,6 +51,7 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 ![](https://img.shields.io/badge/-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=2bbc8a) 
 
 
+
 ## Some books I recommend that helped me in my Machine Learning and Data Science learning path
 
 *  [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
