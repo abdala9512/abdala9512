@@ -54,7 +54,7 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 
 ## Some books I recommend that helped me in my Machine Learning and Data Science learning path
 
-*  [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+*  [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
 * [Data Science in Production: Building Scalable Model Pipelines with Python ](https://www.amazon.com/-/es/Ben-Weber-ebook/dp/B083H2YWP4)
 
