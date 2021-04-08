@@ -62,7 +62,7 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 
 * [Learn Keras for Deep Neural Networks](https://www.amazon.com/-/es/Jojo-Moolayil/dp/1484242394)
 
-* [Introducing MLOps (My current reading)](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
+* [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
 
 ## My portfolio
 
