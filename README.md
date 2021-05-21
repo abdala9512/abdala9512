@@ -14,9 +14,9 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 
 ![](https://komarev.com/ghpvc/?username=abdala9512&style=flat-square&color=EA4AAA)
 
-## Interests
+## Professional Interests
 
-### Languages
+### Programming Languages
 
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3775A9) 
 ![](https://img.shields.io/badge/-R-informational?style=flat&logo=R&logoColor=white&color=00457C) 
@@ -52,7 +52,7 @@ Trying to solve Machine learning and Data science problems for fun... Permanentl
 
 
 
-## books I recommend that helped me in my Machine Learning and Data Science learning path
+## Books I recommend that helped me in my Machine Learning and Data Science learning path
 
 *  [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
