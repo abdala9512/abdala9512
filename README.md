@@ -5,7 +5,7 @@ Hi, I'm Miguel Arquez Abdala
 
 I'm passionate for acquiring quantitative and coding skills and data-driven phenomena understanding with high Business impact everyday.
 
-I’ve worked in data science projects and economic research and I’m continually seeking professional challenges in Machine learning engineering, Data engineering, end to end ML solutions and Big Data problems. Currently I'm working on a full stack data role (Data science, Machine Learning, Data Engineering, MLOps and Business Intelligence)
+I’ve worked in data science projects and economic research and I’m continually seeking professional challenges in Machine learning engineering, Data engineering, end to end ML solutions and Big Data problems. Currently I'm working on become a full-stack data professional (Data science, Machine Learning, Data Engineering, MLOps and Business Intelligence)
 
 Trying to solve Machine learning, Data engineering and Data science projects for fun... Permanently learning
 
