@@ -1,9 +1,9 @@
 # Miguel Arquez Abdala
 <br />
 
-Hi, I'm Miguel Arquez Abdala
+Hi, I'm Miguel Arquez Abdala, Data Professional and  MSc. Analytics for business Intelligence student
 
-I'm passionate for acquiring quantitative and coding skills and data-driven phenomena understanding with high Business impact everyday.
+I'm passionate for acquiring quantitative and coding skills and data-driven phenomena understanding with high Business impact everyday. 
 
 I’ve worked in data science projects and economic research and I’m continually seeking professional challenges in Machine learning engineering, Data engineering, end to end ML solutions and Big Data problems. Currently I'm working on become a full-stack data professional (Data science, Machine Learning, Data Engineering, MLOps and Business Intelligence). Also I like to teach as a way to improve my own skills.
 
@@ -21,8 +21,8 @@ Trying to solve Machine learning, Data engineering and Data science projects for
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3775A9) 
 ![](https://img.shields.io/badge/-R-informational?style=flat&logo=R&logoColor=white&color=00457C) 
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f0a500)
- ![](https://img.shields.io/badge/-Scala-informational?style=flat&logo=scala&logoColor=white&color=ec524b) 
- ![](https://img.shields.io/badge/-C++-informational?style=flat&logo=C&logoColor=white&color=00457C) 
+![](https://img.shields.io/badge/-Scala-informational?style=flat&logo=scala&logoColor=white&color=ec524b) 
+![](https://img.shields.io/badge/-C++-informational?style=flat&logo=C&logoColor=white&color=00457C) 
 ![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=127681)
 
 ### Frameworks, tools and Libraries
