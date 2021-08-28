@@ -37,7 +37,6 @@ Trying to solve Machine learning, Data engineering and Data science projects for
 ![](https://img.shields.io/badge/-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=db6400)
 ![](https://img.shields.io/badge/-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=28df99)
 ![](https://img.shields.io/badge/-D3.js-informational?style=flat&logo=D3.js&logoColor=white&color=cf7500)
-![](https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=d2e603)
 ![](https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&logoColor=white&color=290001)
 ![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=3e978b)
 ![](https://img.shields.io/badge/-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
@@ -47,7 +46,6 @@ Trying to solve Machine learning, Data engineering and Data science projects for
 ![](https://img.shields.io/badge/-GCP-informational?style=flat&logo=google&cloud&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=440047)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=Linux&logoColor=white&color=838383) 
-![](https://img.shields.io/badge/-QGIS-informational?style=flat&logo=qgis&logoColor=white&color=206a5d) 
 ![](https://img.shields.io/badge/-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=2bbc8a) 
 
 
