@@ -62,11 +62,6 @@ Trying to solve Machine learning, Data engineering and Data science projects for
 
 * [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
 
-## My portfolio
-
-... In progress...  Meanwhile you can check my repositories
-
-
 ## My Data Science and programming notes
 
 * [Rpubs](https://rpubs.com/arquez9512)
