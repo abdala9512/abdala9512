@@ -65,7 +65,6 @@ Trying to solve Machine learning, Data engineering and Data science projects for
 ## My Data Science and programming notes
 
 * [Rpubs](https://rpubs.com/arquez9512)
-* [Kyso](https://kyso.io/abdala9512)
 
 <br> <br>
 
