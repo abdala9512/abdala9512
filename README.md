@@ -1,13 +1,11 @@
 # Miguel Arquez Abdala
 <br />
 
-Hi, I'm Miguel Arquez Abdala, Data Professional and  MSc. Analytics for business Intelligence student
+Machine Learning Engineer, Data Professional, and MSc. Analytics.
 
-I'm passionate for acquiring quantitative and coding skills and data-driven phenomena understanding with high Business impact everyday. 
+I’ve worked in data science and big data engineering projects, and economic research and I'm continually seeking professional challenges in Machine learning engineering, Data engineering, and end-to-end ML solutions. Currently, I'm working as MLOps engineer, developing robust data products for one of the world's largest CPG companies, and working on creating ML-based strategies on a global scale.
 
-I’ve worked in data science projects and economic research and I’m continually seeking professional challenges in Machine learning engineering, Data engineering, end to end ML solutions and Big Data problems. Currently I'm working on become a full-stack data professional (Data science, Machine Learning, Data Engineering, MLOps and Business Intelligence). Also I like to teach as a way to improve my own skills.
-
-Trying to solve Machine learning, Data engineering and Data science projects for fun... Permanently learning
+Current interests: MLOps,  LLMOps, DevOps, Feature Store, IaC, ML platforms, Software Architecture, ML-System Design, Platform engineering, Generative AI
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdala9512&layout=compact)](https://github.com/abdala9512/github-readme-stats)
