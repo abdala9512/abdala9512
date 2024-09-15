@@ -53,7 +53,3 @@ Current interests: MLOps,  LLMOps, DevOps, Feature Store, IaC, ML platforms, Sof
 <a href="https://www.linkedin.com/in/miguel-arquez-abdala-3503b277/">
   <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-<a href="https://github.com/abdala9512">
-  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
