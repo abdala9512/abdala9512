@@ -19,8 +19,6 @@ Current interests: MLOps,  LLMOps, DevOps, Feature Store, IaC, ML platforms, Sof
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3775A9) 
 ![](https://img.shields.io/badge/-R-informational?style=flat&logo=R&logoColor=white&color=00457C) 
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f0a500)
-![](https://img.shields.io/badge/-Scala-informational?style=flat&logo=scala&logoColor=white&color=ec524b) 
-![](https://img.shields.io/badge/-C++-informational?style=flat&logo=C&logoColor=white&color=00457C) 
 ![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=127681)
 
 ### Frameworks, tools and Libraries
@@ -34,7 +32,6 @@ Current interests: MLOps,  LLMOps, DevOps, Feature Store, IaC, ML platforms, Sof
 ![](https://img.shields.io/badge/-Numba-informational?style=flat&logo=numba&logoColor=white&color=706897)
 ![](https://img.shields.io/badge/-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=db6400)
 ![](https://img.shields.io/badge/-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=28df99)
-![](https://img.shields.io/badge/-D3.js-informational?style=flat&logo=D3.js&logoColor=white&color=cf7500)
 ![](https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&logoColor=white&color=290001)
 ![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=3e978b)
 ![](https://img.shields.io/badge/-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
@@ -46,19 +43,6 @@ Current interests: MLOps,  LLMOps, DevOps, Feature Store, IaC, ML platforms, Sof
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=Linux&logoColor=white&color=838383) 
 ![](https://img.shields.io/badge/-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=2bbc8a) 
 
-
-
-## Books I recommend that helped me in my Machine Learning and Data Science learning path
-
-*  [An Introduction to Statistical Learning](https://www.statlearning.com/)
-
-* [Data Science in Production: Building Scalable Model Pipelines with Python ](https://www.amazon.com/-/es/Ben-Weber-ebook/dp/B083H2YWP4)
-
-* [ Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/-/es/Aur%C3%A9lien-G%C3%A9ron/dp/1492032646/ref=pd_lpo_14_img_0/143-2007620-3388726?_encoding=UTF8&pd_rd_i=1492032646&pd_rd_r=52e1bf37-65c6-49e0-b301-ef720158f4e2&pd_rd_w=3oQxq&pd_rd_wg=xhHW4&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=CAZ6PYXJ69DDXPZY539T&psc=1&refRID=CAZ6PYXJ69DDXPZY539T)
-
-* [Learn Keras for Deep Neural Networks](https://www.amazon.com/-/es/Jojo-Moolayil/dp/1484242394)
-
-* [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
 
 ## My Data Science and programming notes
 
