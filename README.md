@@ -7,8 +7,11 @@ I’ve worked in data science and big data engineering projects, and economic re
 
 Current interests: MLOps,  LLMOps, DevOps, Feature Store, IaC, ML platforms, Software Architecture, ML-System Design, Platform engineering, Generative AI
 
+<center>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdala9512&layout=compact&hide_border=true)](https://github.com/abdala9512/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdala9512&layout=compact)](https://github.com/abdala9512/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=abdala9512&style=flat-square&color=EA4AAA)
 
